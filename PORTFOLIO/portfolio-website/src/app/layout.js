@@ -13,13 +13,13 @@ export const viewport = {
 
 export const metadata = {
   title: 'Dhanush M C - Portfolio | AI Engineering Student',
-  description: 'AI Engineering student with expertise in CV & NLP. B.Tech Student - Artificial Intelligence | AI & Technology Enthusiast. Passionate AI Developer building innovative solutions across multiple domains.',
+  description: 'B.Tech Student - Artificial Intelligence | AI & Technology Enthusiast. Passionate AI Developer | Building Innovative Solutions Across Multiple Domains',
   keywords: 'Dhanush MC, AI Engineering, Computer Vision, NLP, Machine Learning, React, Python, Oracle Cloud, B.Tech AI',
   authors: [{ name: 'Dhanush M C' }],
   metadataBase: new URL('https://mcdhanush-portfolio.vercel.app'),
   openGraph: {
     title: 'Dhanush M C - AI Engineering Student',
-    description: 'AI Engineering student with expertise in CV & NLP. GATE AIR 602. Explore my projects and achievements in AI & Technology.',
+    description: 'B.Tech Student - Artificial Intelligence | AI & Technology Enthusiast. Passionate AI Developer | Building Innovative Solutions Across Multiple Domains',
     url: 'https://mcdhanush-portfolio.vercel.app',
     siteName: 'Dhanush M C Portfolio',
     images: [
@@ -36,7 +36,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Dhanush M C - AI Engineering Student',
-    description: 'AI Engineering student with expertise in CV & NLP. GATE AIR 602. Explore my projects and achievements.',
+    description: 'B.Tech Student - Artificial Intelligence | AI & Technology Enthusiast. Passionate AI Developer | Building Innovative Solutions Across Multiple Domains',
     images: ['https://mcdhanush-portfolio.vercel.app/assets/profile/Profile.jpg'],
     creator: '@DhanushMC',
   },
