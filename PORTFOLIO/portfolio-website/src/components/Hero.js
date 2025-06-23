@@ -39,7 +39,7 @@ export default function Hero() {
         <div className="absolute bottom-1/3 left-1/6 w-6 h-6 xs:w-8 xs:h-8 sm:w-12 sm:h-12 md:w-16 md:h-16 xl:w-20 xl:h-20 bg-accent-200 dark:bg-accent-800 rounded-full opacity-20 animate-float" style={{animationDelay: '4s'}}></div>
       </div>
 
-      <div className="relative z-20 w-full max-w-7xl mx-auto px-2 xs:px-4 sm:px-6 lg:px-8 text-center">
+      <div className="relative z-10 w-full max-w-7xl mx-auto px-2 xs:px-4 sm:px-6 lg:px-8 text-center pt-16 md:pt-20">
         <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           
           {/* Profile Image */}
@@ -142,7 +142,7 @@ export default function Hero() {
         </div>
 
         {/* Scroll Indicator */}
-        <div className="absolute bottom-4 xs:bottom-6 sm:bottom-8 left-1/2 transform -translate-x-1/2 z-30">
+        <div className="absolute bottom-4 xs:bottom-6 sm:bottom-8 left-1/2 transform -translate-x-1/2 z-10">
           <button
             onClick={scrollToAbout}
             className="animate-bounce p-1 xs:p-2 text-gray-400 hover:text-primary-600 transition-colors duration-300"

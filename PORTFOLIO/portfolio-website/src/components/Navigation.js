@@ -76,7 +76,7 @@ export default function Navigation() {
   const ThemeIcon = themeIcons[theme]
 
   return (
-    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+    <nav className={`fixed top-0 left-0 right-0 z-[100] transition-all duration-300 ${
       isScrolled 
         ? 'bg-white/90 dark:bg-gray-900/90 backdrop-blur-lg border-b border-gray-200/50 dark:border-gray-700/50 shadow-lg' 
         : 'bg-transparent'
