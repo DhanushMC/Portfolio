@@ -12,21 +12,22 @@ export const viewport = {
 }
 
 export const metadata = {
-  title: 'Dhanush M C - Portfolio',
-  description: 'Software Developer & AI Enthusiast passionate about building innovative solutions with cutting-edge technology.',
-  keywords: 'Dhanush MC, Software Developer, AI, Machine Learning, React, Python, Oracle Cloud',
+  title: 'Dhanush M C - Portfolio | AI Engineering Student',
+  description: 'AI Engineering student with expertise in CV & NLP. B.Tech Student - Artificial Intelligence | AI & Technology Enthusiast. Passionate AI Developer building innovative solutions across multiple domains.',
+  keywords: 'Dhanush MC, AI Engineering, Computer Vision, NLP, Machine Learning, React, Python, Oracle Cloud, B.Tech AI',
   authors: [{ name: 'Dhanush M C' }],
+  metadataBase: new URL('https://mcdhanush-portfolio.vercel.app'),
   openGraph: {
-    title: 'Dhanush M C - Portfolio',
-    description: 'Software Developer & AI Enthusiast passionate about building innovative solutions with cutting-edge technology.',
-    url: 'https://dhanush-portfolio.vercel.app',
+    title: 'Dhanush M C - AI Engineering Student',
+    description: 'AI Engineering student with expertise in CV & NLP. GATE AIR 602. Explore my projects and achievements in AI & Technology.',
+    url: 'https://mcdhanush-portfolio.vercel.app',
     siteName: 'Dhanush M C Portfolio',
     images: [
       {
         url: '/assets/profile/Profile.jpg',
         width: 1200,
         height: 630,
-        alt: 'Dhanush M C',
+        alt: 'Dhanush M C - AI Engineering Student',
       },
     ],
     locale: 'en_US',
@@ -34,9 +35,10 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Dhanush M C - Portfolio',
-    description: 'Software Developer & AI Enthusiast passionate about building innovative solutions with cutting-edge technology.',
-    images: ['/assets/profile/Profile.jpg'],
+    title: 'Dhanush M C - AI Engineering Student',
+    description: 'AI Engineering student with expertise in CV & NLP. GATE AIR 602. Explore my projects and achievements.',
+    images: ['https://mcdhanush-portfolio.vercel.app/assets/profile/Profile.jpg'],
+    creator: '@DhanushMC',
   },
   robots: {
     index: true,

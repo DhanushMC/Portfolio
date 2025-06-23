@@ -1,42 +1,6 @@
 {
   "featured": [
     {
-      "id": "ai-security-red-teaming",
-      "title": "AI Security & Red Teaming Framework",
-      "description": "Advanced framework for stress-testing Large Language Models and identifying vulnerabilities in AI systems through systematic red teaming approaches",
-      "image": "/assets/projects/ai-security-thumb.svg",
-      "technologies": ["AI Security", "Red Teaming", "Large Language Models", "Python", "Cybersecurity"],
-      "links": {
-        "github": "https://github.com/DhanushMC",
-        "live": "#"
-      },
-      "status": "Active",
-      "category": "AI Security",
-      "details": {
-        "overview": "Developed a comprehensive framework for AI security testing focused on Large Language Models. This project involves systematic red teaming approaches to identify vulnerabilities and strengthen ethical safeguards in AI systems, contributing to building more trustworthy AI applications.",
-        "features": [
-          "LLM vulnerability assessment and testing",
-          "Automated red teaming scenarios",
-          "Ethical safeguard evaluation",
-          "Security protocol implementation",
-          "Comprehensive reporting and analysis",
-          "Agent-based autonomous security systems"
-        ],
-        "challenges": [
-          "Developing effective stress-testing methodologies for LLMs",
-          "Balancing security testing with ethical considerations",
-          "Creating scalable automated testing frameworks",
-          "Ensuring comprehensive coverage of potential vulnerabilities"
-        ],
-        "technologies": {
-          "AI/Security": ["AI Red Teaming", "LLM Security", "Vulnerability Assessment"],
-          "Programming": ["Python", "Security Frameworks"],
-          "Analysis": ["Threat Modeling", "Risk Assessment"],
-          "Tools": ["Cybersecurity Tools", "Automated Testing"]
-        }
-      }
-    },
-    {
       "id": "supply-chain-ml-forecasting",
       "title": "Supply Chain ML Forecasting System",
       "description": "Machine learning-powered forecasting system for supply chain management with seasonality analysis and trend prediction capabilities",
@@ -154,15 +118,6 @@
       "technologies": ["Python", "Database Management", "Academic Systems"],
       "status": "Active",
       "category": "Academic Systems"
-    },
-    {
-      "id": "autonomous-security-analysis",
-      "title": "Autonomous Security Code Analysis",
-      "description": "Agent-based system for secure code analysis using autonomous security protocols",
-      "image": "/assets/projects/autonomous-security-thumb.svg",
-      "technologies": ["AI Agents", "Code Analysis", "Security", "Python"],
-      "status": "In Development",
-      "category": "AI Security"
     },
     {
       "id": "ai-research-projects",
