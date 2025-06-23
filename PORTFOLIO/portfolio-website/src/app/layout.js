@@ -4,17 +4,18 @@ import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  userScalable: true,
+}
+
 export const metadata = {
   title: 'Dhanush M C - Portfolio',
   description: 'Software Developer & AI Enthusiast passionate about building innovative solutions with cutting-edge technology.',
   keywords: 'Dhanush MC, Software Developer, AI, Machine Learning, React, Python, Oracle Cloud',
   authors: [{ name: 'Dhanush M C' }],
-  viewport: {
-    width: 'device-width',
-    initialScale: 1,
-    maximumScale: 5,
-    userScalable: true,
-  },
   openGraph: {
     title: 'Dhanush M C - Portfolio',
     description: 'Software Developer & AI Enthusiast passionate about building innovative solutions with cutting-edge technology.',
