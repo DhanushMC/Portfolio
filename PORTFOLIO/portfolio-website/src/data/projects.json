@@ -1,0 +1,177 @@
+{
+  "featured": [
+    {
+      "id": "ai-security-red-teaming",
+      "title": "AI Security & Red Teaming Framework",
+      "description": "Advanced framework for stress-testing Large Language Models and identifying vulnerabilities in AI systems through systematic red teaming approaches",
+      "image": "/assets/projects/ai-security-thumb.svg",
+      "technologies": ["AI Security", "Red Teaming", "Large Language Models", "Python", "Cybersecurity"],
+      "links": {
+        "github": "https://github.com/DhanushMC",
+        "live": "#"
+      },
+      "status": "Active",
+      "category": "AI Security",
+      "details": {
+        "overview": "Developed a comprehensive framework for AI security testing focused on Large Language Models. This project involves systematic red teaming approaches to identify vulnerabilities and strengthen ethical safeguards in AI systems, contributing to building more trustworthy AI applications.",
+        "features": [
+          "LLM vulnerability assessment and testing",
+          "Automated red teaming scenarios",
+          "Ethical safeguard evaluation",
+          "Security protocol implementation",
+          "Comprehensive reporting and analysis",
+          "Agent-based autonomous security systems"
+        ],
+        "challenges": [
+          "Developing effective stress-testing methodologies for LLMs",
+          "Balancing security testing with ethical considerations",
+          "Creating scalable automated testing frameworks",
+          "Ensuring comprehensive coverage of potential vulnerabilities"
+        ],
+        "technologies": {
+          "AI/Security": ["AI Red Teaming", "LLM Security", "Vulnerability Assessment"],
+          "Programming": ["Python", "Security Frameworks"],
+          "Analysis": ["Threat Modeling", "Risk Assessment"],
+          "Tools": ["Cybersecurity Tools", "Automated Testing"]
+        }
+      }
+    },
+    {
+      "id": "supply-chain-ml-forecasting",
+      "title": "Supply Chain ML Forecasting System",
+      "description": "Machine learning-powered forecasting system for supply chain management with seasonality analysis and trend prediction capabilities",
+      "image": "/assets/projects/supply-chain-thumb.svg",
+      "technologies": ["Machine Learning", "Python", "SAP SCM", "Dash", "Forecasting", "Data Analysis"],
+      "links": {
+        "github": "https://github.com/DhanushMC",
+        "live": "#"
+      },
+      "status": "Completed",
+      "category": "Machine Learning",
+      "details": {
+        "overview": "Developed an advanced machine learning system for supply chain forecasting at Titan Engineering & Automation Limited. The system addresses demand variability, performs seasonality analysis, and provides trend predictions to optimize inventory management and strategic planning.",
+        "features": [
+          "ML-based forecast error prediction",
+          "Seasonality analysis for inventory optimization",
+          "Trend analysis with advanced analytics",
+          "User-friendly dashboard with Dash framework",
+          "SAP SCM integration",
+          "Real-time data processing and visualization"
+        ],
+        "challenges": [
+          "Handling complex demand variability patterns",
+          "Integrating with existing SAP SCM systems",
+          "Ensuring forecast accuracy across different time horizons",
+          "Managing seasonal fluctuations effectively"
+        ],
+        "technologies": {
+          "ML/AI": ["Machine Learning", "Predictive Analytics", "Forecasting Models"],
+          "Programming": ["Python", "Data Analysis Libraries"],
+          "Enterprise": ["SAP SCM", "Enterprise Integration"],
+          "Visualization": ["Dash", "Interactive Dashboards"]
+        }
+      }
+    },
+    {
+      "id": "board-game-prediction",
+      "title": "Board Game Review Prediction",
+      "description": "Machine learning model to predict board game reviews and ratings using advanced data analytics and prediction algorithms",
+      "image": "/assets/projects/board-game-thumb.svg",
+      "technologies": ["Python", "Jupyter Notebook", "Machine Learning", "Data Science", "Pandas", "Scikit-learn"],
+      "links": {
+        "github": "https://github.com/DhanushMC/Board-Game-review-Prediction",
+        "live": "#"
+      },
+      "status": "Completed",
+      "category": "Data Science",
+      "details": {
+        "overview": "Developed a comprehensive machine learning model to predict board game reviews and ratings. This project involves data preprocessing, feature engineering, model training, and evaluation to accurately predict user reviews based on various game characteristics and player feedback patterns.",
+        "features": [
+          "Advanced data preprocessing and cleaning",
+          "Feature engineering for game characteristics",
+          "Multiple ML algorithms comparison",
+          "Model evaluation and optimization",
+          "Predictive analytics for game ratings",
+          "Statistical analysis of gaming trends"
+        ],
+        "challenges": [
+          "Handling diverse and unstructured review data",
+          "Feature selection for optimal model performance",
+          "Dealing with bias in user reviews",
+          "Model validation and cross-validation techniques"
+        ],
+        "technologies": {
+          "Programming": ["Python", "Jupyter Notebook"],
+          "ML Libraries": ["Scikit-learn", "Pandas", "NumPy"],
+          "Data Analysis": ["Matplotlib", "Seaborn"],
+          "Tools": ["Git", "VS Code"]
+        }
+      }
+    },
+    {
+      "id": "drug-response-prediction",
+      "title": "Drug Response Prediction System",
+      "description": "AI-powered system to predict drug responses using machine learning algorithms for healthcare applications",
+      "image": "/assets/projects/drug-prediction-thumb.svg",
+      "technologies": ["Python", "Machine Learning", "Healthcare AI", "Data Analytics", "Jupyter Notebook"],
+      "links": {
+        "github": "https://github.com/DhanushMC/DRUG-RESPONSE-PREDICTION",
+        "live": "#"
+      },
+      "status": "Completed",
+      "category": "Healthcare AI",
+      "details": {
+        "overview": "Developed an advanced machine learning system to predict drug responses in patients. This project focuses on personalized medicine by analyzing patient data and drug characteristics to predict treatment effectiveness and potential side effects.",
+        "features": [
+          "Patient data analysis and preprocessing",
+          "Drug interaction modeling",
+          "Response prediction algorithms",
+          "Healthcare data security compliance",
+          "Statistical analysis of treatment outcomes",
+          "Predictive modeling for personalized medicine"
+        ],
+        "challenges": [
+          "Handling sensitive healthcare data",
+          "Ensuring model accuracy for critical decisions",
+          "Managing complex drug interaction networks",
+          "Validating predictions with medical standards"
+        ],
+        "technologies": {
+          "Programming": ["Python", "Jupyter Notebook"],
+          "ML/AI": ["TensorFlow", "Scikit-learn", "Pandas"],
+          "Healthcare": ["Medical data standards", "Healthcare analytics"],
+          "Analysis": ["Statistical modeling", "Data visualization"]
+        }
+      }
+    }
+  ],
+  "other": [
+    {
+      "id": "campus-repository",
+      "title": "Academia Campus Repository",
+      "description": "Comprehensive academic repository system for managing and organizing campus-related data and resources",
+      "image": "/assets/projects/campus-repository-thumb.svg",
+      "technologies": ["Python", "Database Management", "Academic Systems"],
+      "status": "Active",
+      "category": "Academic Systems"
+    },
+    {
+      "id": "autonomous-security-analysis",
+      "title": "Autonomous Security Code Analysis",
+      "description": "Agent-based system for secure code analysis using autonomous security protocols",
+      "image": "/assets/projects/autonomous-security-thumb.svg",
+      "technologies": ["AI Agents", "Code Analysis", "Security", "Python"],
+      "status": "In Development",
+      "category": "AI Security"
+    },
+    {
+      "id": "ai-research-projects",
+      "title": "AI Research Initiatives",
+      "description": "Various AI and machine learning research projects in collaboration with academic peers and industry experts",
+      "image": "/assets/projects/ai-research-thumb.svg",
+      "technologies": ["Python", "Research Methodologies", "AI/ML"],
+      "status": "Ongoing",
+      "category": "Research"
+    }
+  ]
+}

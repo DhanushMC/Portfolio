@@ -1,0 +1,101 @@
+{
+  "degrees": [
+    {
+      "id": "btech-ai-amrita",
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "field": "Artificial Intelligence",
+      "duration": "Sep 2022 - Jun 2026",
+      "grade": "Currently pursuing",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "logo": "/assets/education/amrita-logo.png",
+      "description": "Pursuing B.Tech in Artificial Intelligence at one of India's leading deemed universities. The program focuses on cutting-edge AI technologies, machine learning, deep learning, and their applications in various domains including cybersecurity and automation.",
+      "coursework": [
+        "Artificial Intelligence & Machine Learning",
+        "Deep Learning & Neural Networks",
+        "AI Security & Red Teaming",
+        "Data Structures and Algorithms", 
+        "Natural Language Processing",
+        "Computer Vision",
+        "Data Science & Analytics",
+        "Software Engineering",
+        "Database Management Systems",
+        "Statistics & Probability",
+        "Python Programming",
+        "Research Methodology",
+        "Ethics in AI"
+      ],
+      "achievements": [
+        "Completed internships in AI security and supply chain automation",
+        "Developed machine learning models for forecast prediction",
+        "Specialized in AI red teaming and LLM security testing",
+        "Strong focus on practical applications of AI in cybersecurity",
+        "Active participant in technical competitions and research projects"
+      ]
+    },
+    {
+      "id": "senior-secondary-maharishi",
+      "institution": "Maharishi International Residential School",
+      "degree": "Senior Secondary Education (CBSE)",
+      "field": "Science (Physics, Chemistry, Mathematics, Computer Science)",
+      "duration": "Apr 2020 - Jul 2022",
+      "grade": "Qualified for Engineering Entrance",
+      "location": "Sriperumbudur, Tamil Nadu 602106, India",
+      "description": "Completed senior secondary education with focus on Science subjects, achieving the required qualification for admission to prestigious engineering institutions.",
+      "achievements": [
+        "Served as a hostel committee member during academic year 2021-22",
+        "Class representative for academic year 2021-22",
+        "Strong foundation in Physics, Chemistry, Mathematics, and Computer Science"
+      ]
+    },
+    {
+      "id": "secondary-siddharth",
+      "institution": "Siddharth Village School",
+      "degree": "Secondary School Education (CBSE)",
+      "field": "General Education",
+      "duration": "2018 - 2020",
+      "grade": "Completed with Good Performance",
+      "location": "Hosur, Tamil Nadu 635109, India",
+      "description": "Completed secondary education with a strong academic foundation, preparing for senior secondary studies in science stream.",
+      "achievements": [
+        "Successfully completed CBSE secondary education",
+        "Built strong foundation for science subjects",
+        "Developed fundamental academic and social skills"
+      ]
+    },
+    {
+      "id": "jee-preparation-fiitjee",
+      "institution": "FIITJEE",
+      "degree": "JEE Preparation Program",
+      "field": "JEE Mains Advance, NTSE, KVPY, Entrance Exams of tier 1 colleges",
+      "duration": "Mar 2019 - 2022",
+      "grade": "Successfully qualified for tier 1 colleges",
+      "location": "India",
+      "description": "Comprehensive preparation program for competitive examinations including JEE Mains, JEE Advanced, NTSE, KVPY, and other entrance exams for tier 1 engineering colleges.",
+      "achievements": [
+        "Successfully qualified for JEE examinations",
+        "Achieved admission to Amrita Vishwa Vidyapeetham",
+        "Strong foundation in competitive examination preparation",
+        "Developed analytical and problem-solving skills"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "AI Security Specialization",
+      "description": "Gained expertise in AI red teaming and Large Language Model security testing through internship at Cybersecurity-NxxT"
+    },
+    {
+      "title": "Supply Chain Management & ML Integration",
+      "description": "Successfully developed machine learning models for forecast prediction and conducted advanced data analysis at Titan Engineering & Automation Limited"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure AI Certified Professional",
+      "description": "Achieved professional certification in Oracle Cloud Infrastructure with specialization in Generative AI technologies"
+    },
+    {
+      "title": "Leadership & Community Service",
+      "description": "Served as hostel committee member and class representative, demonstrating leadership and community engagement skills"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "categories": [
+    {
+      "provider": "Oracle",
+      "certificates": [
+        {
+          "id": "oracle-oci-genai-2024",
+          "title": "Oracle Cloud Infrastructure 2024 Generative AI Certified Professional",
+          "issueDate": "July 2024",
+          "credentialId": "OCI-GENAI-2024",
+          "image": "/assets/certificates/Oracle Cloud Infrastructure 2024 Generative AI Certified Professional_1.png",
+          "skills": ["Oracle Cloud Infrastructure", "Generative AI", "Cloud Computing", "AI/ML"],
+          "description": "Professional certification demonstrating expertise in Oracle Cloud Infrastructure's Generative AI services, including implementation, management, and optimization of AI workloads in the cloud environment."
+        }
+      ]
+    },
+    {
+      "provider": "Workshops & Courses",
+      "certificates": [
+        {
+          "id": "dadtaan-maths-workshop",
+          "title": "Dadtaan Mathematics Workshop Certificate",
+          "issueDate": "2023",
+          "pdf": "/assets/certificates/Dadtaan Maths Workshop Certificate.pdf",
+          "skills": ["Mathematics", "Problem Solving", "Analytical Thinking", "Workshop Participation", "Mathematical Concepts"],
+          "description": "Certificate of completion for the Dadtaan Mathematics Workshop. Enhanced mathematical problem-solving skills, analytical thinking abilities, and gained deeper understanding of advanced mathematical concepts through interactive learning sessions."
+        },
+        {
+          "id": "techobute-iitm-workshop",
+          "title": "Techobute Workshop - IIT Madras",
+          "issueDate": "2023",
+          "pdf": "/assets/certificates/techobute workshop IITM.pdf",
+          "skills": ["Technology", "Innovation", "IIT Madras", "Technical Skills", "Workshop Participation"],
+          "description": "Certificate from Techobute workshop conducted by IIT Madras. Gained exposure to cutting-edge technology trends, innovative approaches to problem-solving, and enhanced technical knowledge through hands-on learning experiences at one of India's premier technical institutions."
+        },
+        {
+          "id": "information-technology-course",
+          "title": "Information Technology Course Completion",
+          "issueDate": "2020",
+          "pdf": "/assets/certificates/Information technology.pdf",
+          "skills": ["Information Technology", "Computer Systems", "Digital Literacy", "Technical Knowledge", "Course Completion"],
+          "description": "Certificate of successful completion of Information Technology course. Developed comprehensive understanding of IT fundamentals, computer systems, digital technologies, and gained practical knowledge in information management and technology applications."
+        }
+      ]
+    },
+    {
+      "provider": "Sports & Athletics",
+      "certificates": [
+        {
+          "id": "discus-throw-cert",
+          "title": "Discus Throw – 3rd Place at University Level",
+          "issueDate": "2024-2025",
+          "pdf": "/assets/certificates/Discus Throw.pdf",
+          "skills": ["Athletics", "Track and Field", "Discus Throw", "University Competition", "Physical Fitness"],
+          "description": "Achieved 3rd place in discus throw at a university-level athletics meet. Demonstrated strength, technique, and consistent training, reflecting dedication to field events and overall athletic discipline."
+        },
+        {
+          "id": "javelin-throw-cert",
+          "title": "Javelin Throw – 3rd Place at University Level",
+          "issueDate": "2024-2025",
+          "pdf": "/assets/certificates/Javlin Throw .pdf",
+          "skills": ["Athletics", "Track and Field", "Javelin Throw", "University Competition", "Physical Endurance"],
+          "description": "Secured 3rd place in javelin throw at a university-level competition. Showcased precision, power, and focus in this demanding event, highlighting my commitment to sportsmanship and physical endurance."
+        },
+        {
+          "id": "frisbee-cert",
+          "title": "Ultimate Frisbee – Runner-up at University Level",
+          "issueDate": "2024-2025",
+          "pdf": "/assets/certificates/Frisbee.pdf",
+          "skills": ["Ultimate Frisbee", "Team Captain", "Leadership", "University Competition", "Teamwork"],
+          "description": "Secured runner-up position in a university-level Ultimate Frisbee tournament. Played a key Captaincy role in guiding the team through this high-energy, strategy-driven sport known for its emphasis on agility, teamwork, and spirit of the game."
+        },
+        {
+          "id": "basketball-cert",
+          "title": "Basketball Competition Certificate",
+          "issueDate": "2017-2018",
+          "pdf": "/assets/certificates/Basketball 2.pdf",
+          "skills": ["Basketball", "Team Sports", "Athletic Performance", "Strategic Thinking", "Coordination"],
+          "description": "Certificate recognizing participation and performance in basketball competition. Demonstrated excellent teamwork, court awareness, and athletic ability in this fast-paced team sport requiring strategic thinking and physical coordination."
+        },
+        {
+          "id": "badminton-cert",
+          "title": "Badminton Competition Certificate",
+          "issueDate": "2024",
+          "pdf": "/assets/certificates/Badminton.pdf",
+          "skills": ["Badminton", "Individual Sports", "Agility", "Hand-Eye Coordination", "Mental Focus"],
+          "description": "Certificate for outstanding performance in badminton competition. Showcased exceptional agility, precise shot-making, and mental focus in this demanding racquet sport that requires quick reflexes and strategic gameplay."
+        },
+        {
+          "id": "volleyball-cert",
+          "title": "Volleyball Competition Certificate",
+          "issueDate": "2018-2019",
+          "pdf": "/assets/certificates/Volleyball.pdf",
+          "skills": ["Volleyball", "Team Coordination", "Communication", "Athletic Performance", "Strategic Play"],
+          "description": "Certificate acknowledging excellent performance in volleyball competition. Demonstrated strong team coordination, effective communication, and athletic prowess in this dynamic team sport requiring synchronization and strategic positioning."
+        },
+        {
+          "id": "kho-kho-cert",
+          "title": "Kho-Kho Competition Certificate",
+          "issueDate": "2018-2019",
+          "pdf": "/assets/certificates/Kho-Kho.pdf",
+          "skills": ["Kho-Kho", "Traditional Sports", "Speed", "Team Strategy", "Cultural Sports"],
+          "description": "Certificate for participation in Kho-Kho, a traditional Indian sport. Displayed exceptional speed, agility, and strategic thinking in this culturally significant team sport that emphasizes quick decision-making and coordinated team movements."
+        },
+        {
+          "id": "longjump-cert",
+          "title": "Long Jump Competition Certificate",
+          "issueDate": "2016-2017",
+          "pdf": "/assets/certificates/Longjump.pdf",
+          "skills": ["Long Jump", "Track and Field", "Explosive Power", "Technique", "Athletic Performance"],
+          "description": "Certificate recognizing achievement in long jump competition. Demonstrated explosive power, precise technique, and consistent performance in this challenging field event requiring perfect timing and athletic conditioning."
+        },
+        {
+          "id": "shortput-cert",
+          "title": "Shot Put Competition Certificate",
+          "issueDate": "2015-2016",
+          "pdf": "/assets/certificates/Shortput.pdf",
+          "skills": ["Shot Put", "Track and Field", "Strength Training", "Technique", "Power Development"],
+          "description": "Certificate for shot put competition performance. Showcased exceptional upper body strength, technical precision, and power development in this demanding field event that requires perfect form and explosive strength."
+        }
+      ]
+    },
+    {
+      "provider": "Coursera",
+      "certificates": [
+        {
+          "id": "coursera-cert-1",
+          "title": "Machine Learning Specialization",
+          "issueDate": "2023",
+          "credentialId": "LMATWYAU947J",
+          "pdf": "/assets/certificates/Coursera LMATWYAU947J.pdf",
+          "skills": ["Machine Learning", "Python", "Data Science", "Neural Networks"],
+          "description": "Comprehensive specialization covering machine learning algorithms, neural networks, and practical implementation using Python and popular ML libraries."
+        },
+        {
+          "id": "coursera-cert-2",
+          "title": "Deep Learning Specialization",
+          "issueDate": "2024",
+          "credentialId": "YNUKW6CKBGVM",
+          "pdf": "/assets/certificates/Coursera YNUKW6CKBGVM.pdf",
+          "skills": ["Deep Learning", "Neural Networks", "TensorFlow", "Python"],
+          "description": "Advanced deep learning course covering convolutional neural networks, recurrent neural networks, and modern deep learning architectures for various applications."
+        }
+      ]
+    },
+    {
+      "provider": "Infosys",
+      "certificates": [
+        {
+          "id": "infosys-cert-1",
+          "title": "Programming Fundamentals",
+          "issueDate": "2024",
+          "credentialId": "INF-148b6c28",
+          "pdf": "/assets/certificates/Infosys certificates/1-148b6c28-38c5-4571-aee7-4e4945843ff2.pdf",
+          "skills": ["Programming", "Software Development", "Problem Solving"],
+          "description": "Foundation course in programming concepts, algorithms, and software development best practices through Infosys Springboard platform."
+        },
+        {
+          "id": "infosys-cert-2",
+          "title": "Database Management Systems",
+          "issueDate": "2024",
+          "credentialId": "INF-9f085a32",
+          "pdf": "/assets/certificates/Infosys certificates/1-9f085a32-2f1e-4517-bdb0-8c16a18c8b46.pdf",
+          "skills": ["Database Design", "SQL", "Data Management"],
+          "description": "Comprehensive course covering database design principles, SQL programming, and database management systems administration."
+        },
+        {
+          "id": "infosys-cert-3",
+          "title": "Web Development Fundamentals",
+          "issueDate": "2024",
+          "credentialId": "INF-b034011a",
+          "pdf": "/assets/certificates/Infosys certificates/1-b034011a-237d-442e-9c62-6fe727a4ff90.pdf",
+          "skills": ["HTML", "CSS", "JavaScript", "Web Development"],
+          "description": "Complete web development course covering frontend technologies, responsive design, and modern web development practices."
+        },
+        {
+          "id": "infosys-cert-4",
+          "title": "Software Engineering Principles",
+          "issueDate": "2024",
+          "credentialId": "INF-c4b04186",
+          "pdf": "/assets/certificates/Infosys certificates/1-c4b04186-9512-451c-a925-cdc6238b034c.pdf",
+          "skills": ["Software Engineering", "SDLC", "Project Management"],
+          "description": "Advanced course on software engineering methodologies, software development lifecycle, and project management principles."
+        }
+      ]
+    },
+    {
+      "provider": "Events & Competitions",
+      "certificates": [
+        {
+          "id": "para-olympics-2024",
+          "title": "Para Olympics Event Organization - Certificate of Appreciation",
+          "issueDate": "October 2024",
+          "pdf": "/assets/certificates/organization of para olympics event.pdf",
+          "skills": ["Event Organization", "Volunteer Leadership", "Community Service", "Sports Management"],
+          "description": "Certificate of Appreciation for serving as a volunteer for the 5th Junior & 10th Senior State Para Swimming Championship 2024, held on October 8, 2024, at Amrita University, Ettimadai, Coimbatore. Organized by Tamil Nadu Paralympic Sports Association (TNPSA) and Coimbatore Para Sports Association (CPSA)."
+        },
+        {
+          "id": "ayudh-2024",
+          "title": "AYUDH 2024 Participant",
+          "issueDate": "2024",
+          "pdf": "/assets/certificates/Ayudh 2024 Certificate Dhanush MC.pdf",
+          "skills": ["Leadership", "Social Service", "Community Engagement"],
+          "description": "Participated in AYUDH 2024, a youth empowerment program focused on developing leadership skills and community service initiatives."
+        },
+        {
+          "id": "bci-participant",
+          "title": "BCI Competition Participant",
+          "issueDate": "2023",
+          "pdf": "/assets/certificates/BCI participants-89.pdf",
+          "skills": ["Innovation", "Problem Solving", "Technical Competition"],
+          "description": "Active participant in BCI (Brain Computer Interface) competition, demonstrating technical skills and innovative problem-solving abilities."
+        },
+        {
+          "id": "participation-cert",
+          "title": "Technical Event Participation",
+          "issueDate": "2023",
+          "image": "/assets/certificates/Certificate of participation_Dhanush MC.jpg",
+          "skills": ["Technical Skills", "Innovation", "Teamwork"],
+          "description": "Certificate of participation in technical events showcasing programming skills, innovation, and collaborative problem-solving."
+        },
+        {
+          "id": "int-cert",
+          "title": "International Certification",
+          "issueDate": "2023",
+          "pdf": "/assets/certificates/2539_int.pdf",
+          "skills": ["International Standards", "Professional Development"],
+          "description": "International certification demonstrating adherence to global standards and professional development in technology domain."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="autonomousGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c2d12;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="240" fill="url(#autonomousGradient)"/>
+  
+  <!-- Robot/Agent head -->
+  <g transform="translate(160, 70)">
+    <!-- Head -->
+    <rect x="0" y="0" width="80" height="60" fill="rgba(255,255,255,0.9)" rx="15"/>
+    
+    <!-- Eyes -->
+    <circle cx="25" cy="25" r="8" fill="#dc2626"/>
+    <circle cx="55" cy="25" r="8" fill="#dc2626"/>
+    
+    <!-- Eye lights -->
+    <circle cx="25" cy="25" r="3" fill="white"/>
+    <circle cx="55" cy="25" r="3" fill="white"/>
+    
+    <!-- Mouth/speaker -->
+    <rect x="30" y="40" width="20" height="8" fill="#dc2626" rx="4"/>
+    <line x1="32" y1="44" x2="48" y2="44" stroke="white" stroke-width="1"/>
+    
+    <!-- Antenna -->
+    <line x1="40" y1="0" x2="40" y2="-15" stroke="white" stroke-width="3"/>
+    <circle cx="40" cy="-15" r="3" fill="white"/>
+  </g>
+  
+  <!-- Code analysis visualization -->
+  <g transform="translate(60, 40)" opacity="0.7">
+    <!-- Code blocks -->
+    <rect x="0" y="0" width="40" height="6" fill="white" rx="1"/>
+    <rect x="0" y="10" width="30" height="6" fill="white" rx="1"/>
+    <rect x="0" y="20" width="35" height="6" fill="white" rx="1"/>
+    <rect x="0" y="30" width="25" height="6" fill="white" rx="1"/>
+    
+    <!-- Security scan lines -->
+    <line x1="0" y1="50" x2="40" y2="50" stroke="#ffff00" stroke-width="2" opacity="0.8"/>
+    <line x1="0" y1="55" x2="40" y2="55" stroke="#ffff00" stroke-width="2" opacity="0.6"/>
+    <line x1="0" y1="60" x2="40" y2="60" stroke="#ffff00" stroke-width="2" opacity="0.4"/>
+  </g>
+  
+  <!-- Security alerts -->
+  <g transform="translate(280, 60)" opacity="0.8">
+    <!-- Alert triangles -->
+    <polygon points="15,0 30,25 0,25" fill="#ffff00"/>
+    <text x="15" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+          text-anchor="middle" fill="#dc2626">!</text>
+    
+    <polygon points="15,35 30,60 0,60" fill="#ff6b6b"/>
+    <text x="15" y="55" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+          text-anchor="middle" fill="white">!</text>
+  </g>
+  
+  <!-- Network connections -->
+  <g transform="translate(120, 150)" opacity="0.5">
+    <circle cx="0" cy="0" r="3" fill="white"/>
+    <circle cx="40" cy="10" r="3" fill="white"/>
+    <circle cx="80" cy="-5" r="3" fill="white"/>
+    <circle cx="120" cy="5" r="3" fill="white"/>
+    <circle cx="160" cy="0" r="3" fill="white"/>
+    
+    <line x1="3" y1="0" x2="37" y2="10" stroke="white" stroke-width="1"/>
+    <line x1="43" y1="10" x2="77" y2="-5" stroke="white" stroke-width="1"/>
+    <line x1="83" y1="-5" x2="117" y2="5" stroke="white" stroke-width="1"/>
+    <line x1="123" y1="5" x2="157" y2="0" stroke="white" stroke-width="1"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="200" y="190" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        text-anchor="middle" fill="white">Autonomous Security</text>
+  <text x="200" y="210" font-family="Arial, sans-serif" font-size="14" 
+        text-anchor="middle" fill="rgba(255,255,255,0.8)">Code Analysis</text>
+</svg>

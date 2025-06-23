@@ -1,0 +1,28 @@
+{
+  "name": "Dhanush M C",
+  "title": "B.Tech Student - Artificial Intelligence | AI & Technology Enthusiast",
+  "email": "mcdhanush1122@outlook.com",
+  "phone": "+91 638326987",
+  "location": "Coimbatore, Tamil Nadu, India",
+  "profileImage": "/assets/profile/Profile.jpg",
+  "linkedinBanner": "/assets/profile/LinkedIn_Banner.png",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/dhanush-m-c-668055258",
+    "github": "https://github.com/DhanushMC"
+  },
+  "resume": "/assets/resume.pdf",
+  "bio": "I am Dhanush MC, currently pursuing my B.Tech degree in Artificial Intelligence at Amrita Vishwa Vidyapeetham. I'm passionate about exploring diverse areas of AI including machine learning, data science, security, and emerging technologies. With hands-on experience across multiple domains, I enjoy building innovative solutions that make a real impact.",
+  "tagline": "Passionate AI Developer | Building Innovative Solutions Across Multiple Domains",
+  "aboutMe": {
+    "introduction": "I'm a dedicated Artificial Intelligence student at Amrita Vishwa Vidyapeetham with experience across multiple AI domains. My passion lies in exploring the vast potential of artificial intelligence, from machine learning and data science to security and emerging applications.",
+    "interests": [
+      "AI Security & Red Teaming",
+      "Large Language Model Safety", 
+      "Machine Learning & Predictive Analytics",
+      "Supply Chain Automation",
+      "Cybersecurity in AI Systems",
+      "Research & Development"
+    ],
+    "goals": "To contribute meaningfully to the AI field by developing innovative solutions across various domains, staying adaptable to emerging technologies, and building systems that create positive impact in society."
+  }
+}

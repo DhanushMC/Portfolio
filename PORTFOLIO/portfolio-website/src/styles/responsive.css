@@ -1,0 +1,231 @@
+/* Enhanced Responsive Utilities */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom responsive utilities */
+@layer utilities {
+  /* Responsive spacing utilities */
+  .spacing-responsive {
+    @apply p-2 xs:p-3 sm:p-4 md:p-6 lg:p-8;
+  }
+  
+  .spacing-responsive-sm {
+    @apply p-1 xs:p-2 sm:p-3 md:p-4;
+  }
+  
+  .margin-responsive {
+    @apply m-2 xs:m-3 sm:m-4 md:m-6 lg:m-8;
+  }
+  
+  /* Responsive text utilities */
+  .text-responsive-xs {
+    @apply text-xs xs:text-sm sm:text-base;
+  }
+  
+  .text-responsive-sm {
+    @apply text-sm xs:text-base sm:text-lg md:text-xl;
+  }
+  
+  .text-responsive-base {
+    @apply text-base xs:text-lg sm:text-xl md:text-2xl lg:text-3xl;
+  }
+  
+  .text-responsive-lg {
+    @apply text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl;
+  }
+  
+  .text-responsive-xl {
+    @apply text-xl xs:text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl;
+  }
+  
+  .text-responsive-hero {
+    @apply text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl 3xl:text-9xl;
+  }
+  
+  /* Responsive grid utilities */
+  .grid-responsive-auto {
+    @apply grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4;
+  }
+  
+  .grid-responsive-cards {
+    @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4;
+  }
+  
+  /* Responsive gap utilities */
+  .gap-responsive {
+    @apply gap-2 xs:gap-3 sm:gap-4 md:gap-6 lg:gap-8;
+  }
+  
+  .gap-responsive-sm {
+    @apply gap-1 xs:gap-2 sm:gap-3 md:gap-4;
+  }
+  
+  /* Responsive width/height utilities */
+  .size-responsive-sm {
+    @apply w-4 h-4 xs:w-5 xs:h-5 sm:w-6 sm:h-6;
+  }
+  
+  .size-responsive-md {
+    @apply w-6 h-6 xs:w-8 xs:h-8 sm:w-10 sm:h-10 md:w-12 md:h-12;
+  }
+  
+  .size-responsive-lg {
+    @apply w-8 h-8 xs:w-12 xs:h-12 sm:w-16 sm:h-16 md:w-20 md:h-20 lg:w-24 lg:h-24;
+  }
+  
+  /* Responsive border radius */
+  .rounded-responsive {
+    @apply rounded-lg xs:rounded-xl;
+  }
+  
+  /* Container utilities */
+  .container-responsive {
+    @apply max-w-7xl mx-auto px-2 xs:px-4 sm:px-6 lg:px-8;
+  }
+  
+  /* Responsive flex utilities */
+  .flex-responsive-col {
+    @apply flex flex-col sm:flex-row;
+  }
+  
+  .space-responsive-x {
+    @apply space-x-2 xs:space-x-3 sm:space-x-4 md:space-x-6;
+  }
+  
+  .space-responsive-y {
+    @apply space-y-2 xs:space-y-3 sm:space-y-4 md:space-y-6;
+  }
+}
+
+/* Enhanced base styles for better responsiveness */
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply text-sm xs:text-base;
+  }
+  
+  /* Ensure images are responsive by default */
+  img {
+    @apply max-w-full h-auto;
+  }
+  
+  /* Better button responsiveness */
+  button {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+  
+  /* Enhanced link responsiveness */
+  a {
+    @apply transition-colors duration-200;
+  }
+}
+
+/* Responsive modal and overlay utilities */
+@layer components {
+  .modal-responsive {
+    @apply fixed inset-0 z-50 flex items-center justify-center p-2 xs:p-4;
+  }
+  
+  .modal-content-responsive {
+    @apply relative bg-white dark:bg-gray-800 rounded-lg xs:rounded-xl shadow-2xl 
+           max-w-sm xs:max-w-md sm:max-w-lg md:max-w-2xl lg:max-w-4xl xl:max-w-6xl 
+           w-full max-h-[90vh] xs:max-h-[95vh] overflow-hidden;
+  }
+  
+  .card-responsive {
+    @apply bg-white dark:bg-gray-800 rounded-lg xs:rounded-xl shadow-lg 
+           p-3 xs:p-4 sm:p-6 border border-gray-200 dark:border-gray-700
+           hover:shadow-xl transition-all duration-300;
+  }
+  
+  .section-responsive {
+    @apply py-8 xs:py-12 sm:py-16 md:py-20 lg:py-24;
+  }
+  
+  .section-header-responsive {
+    @apply text-center mb-6 xs:mb-8 sm:mb-12 md:mb-16;
+  }
+}
+
+/* Ultra-wide screen optimizations */
+@media (min-width: 1920px) {
+  .container-responsive {
+    @apply px-12;
+  }
+  
+  .section-responsive {
+    @apply py-32;
+  }
+}
+
+/* 4K screen optimizations */
+@media (min-width: 2560px) {
+  .container-responsive {
+    @apply px-16 max-w-[2400px];
+  }
+  
+  .text-responsive-hero {
+    font-size: clamp(2rem, 8vw, 12rem);
+  }
+}
+
+/* Tablet landscape optimizations */
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .section-responsive {
+    @apply py-12;
+  }
+}
+
+/* Mobile landscape optimizations */
+@media (max-width: 768px) and (orientation: landscape) {
+  .section-responsive {
+    @apply py-6;
+  }
+  
+  .modal-content-responsive {
+    @apply max-h-[85vh];
+  }
+}
+
+/* High DPI screen optimizations */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .shadow-lg {
+    @apply shadow-2xl;
+  }
+}
+
+/* Reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Enhanced focus styles for accessibility */
+@layer utilities {
+  .focus-responsive {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 
+           focus:ring-offset-white dark:focus:ring-offset-gray-900;
+  }
+}
+
+/* Print styles */
+@media print {
+  .no-print {
+    @apply hidden;
+  }
+  
+  .print-break {
+    page-break-after: always;
+  }
+  
+  body {
+    @apply text-black bg-white;
+  }
+}

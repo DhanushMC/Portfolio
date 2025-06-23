@@ -1,0 +1,91 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="certGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4f46e5;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#certGradient)"/>
+  
+  <!-- Ornate Border -->
+  <rect x="20" y="20" width="760" height="560" fill="none" stroke="url(#borderGradient)" stroke-width="6" rx="15"/>
+  <rect x="40" y="40" width="720" height="520" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2" rx="10"/>
+  
+  <!-- Header Decoration -->
+  <g transform="translate(400, 80)">
+    <!-- Shield -->
+    <path d="M-40,-30 Q-40,-40 -30,-40 L30,-40 Q40,-40 40,-30 L40,20 Q40,40 20,50 L0,60 L-20,50 Q-40,40 -40,20 Z" 
+          fill="rgba(255,255,255,0.9)" stroke="rgba(255,255,255,0.5)" stroke-width="2"/>
+    
+    <!-- Cyber elements -->
+    <circle cx="-15" cy="-10" r="8" fill="#4f46e5"/>
+    <circle cx="15" cy="-10" r="8" fill="#4f46e5"/>
+    <rect x="-20" y="5" width="40" height="15" rx="3" fill="#4f46e5"/>
+    
+    <!-- Binary pattern -->
+    <text x="0" y="0" font-family="monospace" font-size="8" fill="#4f46e5" text-anchor="middle">101</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="400" y="160" font-family="serif" font-size="36" font-weight="bold" 
+        text-anchor="middle" fill="white">CERTIFICATE OF COMPLETION</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="200" font-family="serif" font-size="18" 
+        text-anchor="middle" fill="rgba(255,255,255,0.9)">AI Security Internship Program</text>
+  
+  <!-- Presented to -->
+  <text x="400" y="250" font-family="serif" font-size="16" 
+        text-anchor="middle" fill="rgba(255,255,255,0.8)">This is to certify that</text>
+  
+  <!-- Name placeholder -->
+  <text x="400" y="300" font-family="serif" font-size="32" font-weight="bold" 
+        text-anchor="middle" fill="white">[Your Name]</text>
+  
+  <!-- Achievement text -->
+  <text x="400" y="350" font-family="serif" font-size="16" 
+        text-anchor="middle" fill="rgba(255,255,255,0.8)">has successfully completed the AI Security Internship at</text>
+  
+  <!-- Company name -->
+  <text x="400" y="390" font-family="serif" font-size="24" font-weight="bold" 
+        text-anchor="middle" fill="white">Cybersecurity-NxxT</text>
+  
+  <!-- Date and details -->
+  <text x="400" y="430" font-family="serif" font-size="14" 
+        text-anchor="middle" fill="rgba(255,255,255,0.8)">Specializing in AI Red Teaming and Vulnerability Assessment</text>
+  
+  <!-- Date line -->
+  <line x1="150" y1="480" x2="300" y2="480" stroke="rgba(255,255,255,0.6)" stroke-width="1"/>
+  <text x="225" y="500" font-family="serif" font-size="12" 
+        text-anchor="middle" fill="rgba(255,255,255,0.7)">Date</text>
+  
+  <!-- Signature line -->
+  <line x1="500" y1="480" x2="650" y2="480" stroke="rgba(255,255,255,0.6)" stroke-width="1"/>
+  <text x="575" y="500" font-family="serif" font-size="12" 
+        text-anchor="middle" fill="rgba(255,255,255,0.7)">Authorized Signature</text>
+  
+  <!-- Bottom decoration -->
+  <g transform="translate(100, 520)" opacity="0.4">
+    <circle cx="0" cy="0" r="15" fill="rgba(255,255,255,0.3)"/>
+    <path d="M-8,-8 L8,8 M8,-8 L-8,8" stroke="white" stroke-width="2"/>
+  </g>
+  
+  <g transform="translate(700, 520)" opacity="0.4">
+    <circle cx="0" cy="0" r="15" fill="rgba(255,255,255,0.3)"/>
+    <path d="M-8,-8 L8,8 M8,-8 L-8,8" stroke="white" stroke-width="2"/>
+  </g>
+  
+  <!-- Watermark -->
+  <text x="400" y="550" font-family="serif" font-size="10" 
+        text-anchor="middle" fill="rgba(255,255,255,0.3)" opacity="0.5">
+    PLACEHOLDER - Replace when certificate is received
+  </text>
+</svg>

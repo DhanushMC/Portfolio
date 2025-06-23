@@ -1,0 +1,87 @@
+{
+  "positions": [
+    {
+      "id": "ai-intern-cybersecurity",
+      "company": "Cybersecurity-NxxT",
+      "companyUrl": "https://cybersecurity-nxxt.com/",
+      "role": "AI Security Intern",
+      "duration": "Apr 2025 - Jun 2025",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "type": "Internship",
+      "workType": "On-site",
+      "logo": "/assets/experience/CYSNXXT_logo.jpeg",
+      "certificate": "/assets/experience/cysnxxt_certificate.svg",
+      "summary": "Cybersecurity internship specializing in AI security research, vulnerability assessment, and enterprise security solutions. Delivered six major projects spanning AI red teaming, secure code analysis, and full-stack development.",
+      "details": {
+        "responsibilities": [
+          "Specializing in AI red teaming to proactively stress-test Large Language Models (LLMs)",
+          "Finding vulnerabilities and strengthening ethical safeguards in AI systems",
+          "Exploring the future of autonomous security using agent-based systems",
+          "Conducting secure code analysis to build more trustworthy AI",
+          "Advancing AI security protocols and safety measures",
+          "Working on cutting-edge AI security challenges and solutions"
+        ],
+        "achievements": [
+          "Successfully identified critical vulnerabilities in LLM systems",
+          "Developed innovative approaches to AI red teaming methodologies",
+          "Contributed to building more secure and trustworthy AI systems",
+          "Enhanced understanding of AI safety and security protocols",
+          "Gained expertise in advanced AI security testing techniques"
+        ],
+        "technologies": ["Artificial Intelligence (AI)", "Red Teaming", "AI Red Teaming", "Large Language Models", "AI Security", "Autonomous Systems", "Code Analysis"]
+      }
+    },
+    {
+      "id": "project-intern-titan",
+      "company": "Titan Engineering & Automation Limited",
+      "companyUrl": "https://www.titanteal.com/",
+      "role": "Project Intern",
+      "duration": "Jun 2024 - Jul 2024",
+      "location": "Hosur, Tamil Nadu, India",
+      "type": "Internship",
+      "workType": "On-site",
+      "logo": "/assets/experience/teal_logo.jpg",
+      "certificate": "/assets/experience/teal_certificate.jpeg",
+      "summary": "Completed an enriching internship in the Supply Chain Management (SCM) department at TEAL Unit-2, gaining invaluable insights into supply chain management and automation in aerospace manufacturing.",
+      "details": {
+        "responsibilities": [
+          "Worked under the guidance of industry experts in Supply Chain Management",
+          "Gained hands-on experience in aerospace parts manufacturing and market projections",
+          "Studied business process flows, serial production, and scheduling within SCM",
+          "Acquired practical experience with SAP for enterprise resource planning",
+          "Tackled challenges in forecast prediction, seasonality, and trend analysis",
+          "Built user-friendly interfaces using Dash for dynamic data analysis"
+        ],
+        "achievements": [
+          "Developed a machine learning model to improve forecast accuracy and address demand variability",
+          "Conducted detailed seasonality analysis to manage inventory levels effectively",
+          "Performed trend analysis using sophisticated analytical tools for strategic planning",
+          "Enhanced understanding of high-precision automation solutions",
+          "Contributed to projects aligning with TEAL's commitment to innovation and excellence",
+          "Built an intuitive dashboard for dynamic data analysis"
+        ],
+        "technologies": ["SAP SCM", "Machine Learning", "Python (Programming Language)", "Dash", "Data Analysis", "Forecast Prediction", "Supply Chain Management", "Automation"]
+      }
+    }
+  ],
+  "volunteering": [
+    {
+      "organization": "Tamil Nadu Paralympic Sports Association (TNPSA) & Coimbatore Para Sports Association (CPSA)",
+      "role": "Event Organization Volunteer",
+      "duration": "October 2024",
+      "description": "Served as a volunteer for the 5th Junior & 10th Senior State Para Swimming Championship 2024, held on October 8, 2024, at Amrita University, Ettimadai, Coimbatore. Contributed to organizing and supporting para-athletes in this significant sporting event, demonstrating commitment to inclusive sports and community service."
+    },
+    {
+      "organization": "AYUDH (Amrita Youth for Social Change)",
+      "role": "Youth Volunteer",
+      "duration": "2024",
+      "description": "Participated in AYUDH 2024 youth empowerment programs focused on social change, leadership development, and community service initiatives aligned with Amrita's values."
+    },
+    {
+      "organization": "Technical Events & Competitions",
+      "role": "Participant & Contributor",
+      "duration": "2023 - Present",
+      "description": "Active participant in various technical competitions, hackathons, and academic events, contributing to the tech community and showcasing AI/ML skills."
+    }
+  ]
+}

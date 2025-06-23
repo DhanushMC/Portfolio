@@ -1,0 +1,108 @@
+{
+  "technicalSkills": {
+    "title": "Technical Expertise",
+    "subtitle": "Passionate about applying mathematical rigor to AI problems and building intelligent systems",
+    "categories": [
+      {
+        "name": "Artificial Intelligence & Security",
+        "icon": "🛡️",
+        "skills": [
+          "AI Red Teaming",
+          "Large Language Models",
+          "AI Security",
+          "Machine Learning",
+          "Deep Learning",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "name": "Programming & Development", 
+        "icon": "💻",
+        "skills": [
+          "Python",
+          "Data Analysis",
+          "Machine Learning Models",
+          "Jupyter Notebook",
+          "Algorithm Design",
+          "Code Analysis"
+        ]
+      },
+      {
+        "name": "Data Science & Analytics",
+        "icon": "📊", 
+        "skills": [
+          "Forecast Prediction",
+          "Seasonality Analysis", 
+          "Trend Analysis",
+          "Statistical Analysis",
+          "Data Visualization",
+          "Predictive Analytics"
+        ]
+      },
+      {
+        "name": "Enterprise & Cloud Tools",
+        "icon": "☁️",
+        "skills": [
+          "SAP SCM",
+          "Oracle Cloud Infrastructure",
+          "Dash Framework", 
+          "Supply Chain Management",
+          "Enterprise Systems",
+          "Automation Tools"
+        ]
+      }
+    ]
+  },
+  "beyondTechnology": {
+    "title": "Beyond Technology", 
+    "subtitle": "Personal interests that keep me balanced and inspired",
+    "categories": [
+      {
+        "name": "Research & Academic",
+        "icon": "🔬",
+        "description": "Research Methodology, Academic Writing, Problem Solving, Critical Thinking, Project Management, Technical Documentation"
+      },
+      {
+        "name": "Professional Skills",
+        "icon": "👑", 
+        "description": "Leadership, Team Collaboration, Communication, Adaptability, Innovation, Continuous Learning"
+      },
+
+      {
+        "name": "Open Source Development", 
+        "icon": "🔓",
+        "description": "Contributing to community projects"
+      },
+      {
+      "name": "Photography",
+      "icon": "📸",
+      "description": "Capturing moments and creative visual storytelling"
+      },
+      {
+        "name": "Athletics",
+        "icon": "🏃",
+        "description": "Running, fitness, and competitive sports"
+      },
+      {
+        "name": "Frisbee",
+        "icon": "🥏",
+        "description": "Ultimate frisbee and recreational throwing"
+      },
+      {
+        "name": "Video Editing",
+        "icon": "🎬",
+        "description": "Creative storytelling and production" 
+      },
+      {
+        "name": "Badminton",
+        "icon": "🏸",
+        "description": "Physical fitness and mental agility"
+      },
+      {
+        "name": "Exploring New Technologies",
+        "icon": "🔍", 
+        "description": "Staying ahead of tech trends"
+      }
+    ]
+  }
+}
